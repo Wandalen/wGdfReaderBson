@@ -16,7 +16,7 @@
   {
     "url" : "https://github.com/Wandalen/wGdfReaderBson/issues"
   },
-  "dependencies" : { "wTools" : "" },
-  "devDependencies" : { "wTesting" : "", "eslint" : "7.1.0", "wgdfreaderbson" : "file:." },
+  "dependencies" : { "wTools" : "alpha" },
+  "devDependencies" : { "eslint" : "7.1.0", "wgdfreaderbson" : "file:.", "wTesting" : "alpha" },
   "keywords" : [ "wTools" ]
 }

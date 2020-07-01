@@ -1,5 +1,5 @@
 
-# module::GdfReaderBson - Experimental [![Status](https://github.com/Wandalen/wGdfReaderBson/workflows/Test/badge.svg)](https://github.com/Wandalen/wGdfReaderBson/actions?query=workflow%3ATest)
+# module::GdfReaderBson [![experimental](https://img.shields.io/badge/stability-experimental-orange.svg)](https://github.com/emersion/stability-badges#experimental) [![Status](https://github.com/Wandalen/wGdfReaderBson/workflows/Test/badge.svg)](https://github.com/Wandalen/wGdfReaderBson/actions?query=workflow%3ATest)
 
 ___
 

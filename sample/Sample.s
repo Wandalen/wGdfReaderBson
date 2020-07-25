@@ -3,5 +3,5 @@ let _ = require( 'wgdfreaderbson' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 

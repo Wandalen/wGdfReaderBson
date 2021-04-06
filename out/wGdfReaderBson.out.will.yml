@@ -6,8 +6,8 @@ consistency:
     hash: b54651bf7871cff21350334f949ffef2
     size: 1697
   ../.im.will.yml: &ref_1
-    hash: 5bdd228915bd750f447267305111a83e
-    size: 4683
+    hash: 47ea1afb3d99210fc61afb62356a829d
+    size: 4687
 module:
   wGdfReaderBson.out:
     about:
@@ -138,7 +138,7 @@ module:
         path: '{path::out.*=}/source/Index.s'
       npm.proto.entry:
         path:
-          - ../proto/wtools/Tools.s
+          - ../proto/node_modules/Tools
           - ../proto/node_modules/wgdfreaderbson
       exported.dir.proto.export:
         criterion:
@@ -155,9 +155,9 @@ module:
           - ../proto
           - ../proto/Integration.test.ss
           - ../proto/node_modules
+          - ../proto/node_modules/Tools
           - ../proto/node_modules/wgdfreaderbson
           - ../proto/wtools
-          - ../proto/wtools/Tools.s
           - ../proto/wtools/abase
           - ../proto/wtools/amid
           - ../proto/wtools/atop
@@ -890,7 +890,7 @@ module:
         path: '{path::out.*=}/source/Index.s'
       npm.proto.entry:
         path:
-          - proto/wtools/Tools.s
+          - proto/node_modules/Tools
           - proto/node_modules/wgdfreaderbson
     submodule:
       wTools:
@@ -1438,5 +1438,5 @@ module:
         hash: b54651bf7871cff21350334f949ffef2
         size: 1697
       ../.im.will.yml:
-        hash: 5bdd228915bd750f447267305111a83e
-        size: 4683
+        hash: 47ea1afb3d99210fc61afb62356a829d
+        size: 4687
